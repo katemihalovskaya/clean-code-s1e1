@@ -105,7 +105,8 @@ input,button{
   justify-content: space-between;
   align-items: center;
 }
-li > * {
+.incompleted-tasks__task > *, 
+.completed-tasks__task > * {
   vertical-align: middle;
 }
 
