@@ -46,6 +46,10 @@ li,
 h3 {
   list-style: none;
 }
+h1,
+h4 {
+  display: none;
+}
 input,
 button{
   outline: none;
